@@ -1,0 +1,12 @@
+{
+  "name": "capim",
+  "version": "1.0.0",
+  "description": "The personal finance assistant you'll love",
+  "main": "index.js",
+  "repository": "https://github.com/feliperbroering/capim.git",
+  "author": "Felipe R. Broering <felipe.broering@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start" : "node index.js"
+  }
+}
